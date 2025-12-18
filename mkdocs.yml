@@ -1,9 +1,9 @@
 site_name: 天津大学数学学院本科生指北
-site_url: https://jiyouhai.github.io/tju-math-guide/
-site_author: jiyouhai
+site_url: https://zhouyi-xiaoxiao.github.io/tju-math-guide/
+site_author: zhouyi-xiaoxiao
 site_description: 一些关于天大，关于数学的信息和资料，你可能需要会需要他们
 repo_name: tju-math-guide
-repo_url: https://github.com/jiyouhai/tju-math-guide/
+repo_url: https://github.com/zhouyi-xiaoxiao/tju-math-guide/
 theme:
   name: material
   features:
@@ -46,7 +46,7 @@ extra:
     property: G-DYRB5HD31Q
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/jiyouhai
+      link: https://github.com/zhouyi-xiaoxiao
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/profile.php?id=100082717939442&mibextid=9R9pXO
     - icon: fontawesome/brands/linkedin
@@ -70,8 +70,9 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 copyright: |
-  &copy; 2023 <a href="https://github.com/jiyouhai"  target="_blank" rel="noopener">jiyouhai</a>
+  &copy; 2023 <a href="https://github.com/zhouyi-xiaoxiao"  target="_blank" rel="noopener">zhouyi-xiaoxiao</a>
 extra_javascript:
+  - javascripts/redirect-old-domain.js
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

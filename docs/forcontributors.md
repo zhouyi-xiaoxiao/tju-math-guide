@@ -67,11 +67,11 @@ MSE（[mathstackexchange.com](https://mathstackexchange.com)）是一个数学�
 
 大家以后需要用Markdown编辑内容。
 
-可以阅读[了不起的Markdown](https://jiyouhai.github.io/my-math-notes/PDFs/了不起的Markdown.pdf)来了解。语法很简单啦，你看我写的这些。
+可以阅读[了不起的Markdown](https://zhouyi-xiaoxiao.github.io/my-math-notes/PDFs/了不起的Markdown.pdf)来了解。语法很简单啦，你看我写的这些。
 
 ## 更新pdf和zlib
 
-我创建了新的网站，但pdf文件都还在原来的仓库，我也懒得挪了，大家去看原来的[仓库](https://github.com/jiyouhai/my-math-notes)吧哈哈哈。
+我创建了新的网站，但pdf文件都还在原来的仓库，我也懒得挪了，大家去看原来的[仓库](https://github.com/zhouyi-xiaoxiao/my-math-notes)吧哈哈哈。
 
 另外，zlib是找电子书最重要的途径之一，大家一定得会。谷歌上搜索即可。搜索zlib。
 
@@ -82,7 +82,7 @@ MSE（[mathstackexchange.com](https://mathstackexchange.com)）是一个数学�
 
 由于网络环境访问不了GitHub仓库文件，所以我才去了一个折中的方法我采取了jsdelivr的分发方式，链接格式为:
 ```  
-https://cdn.jsdelivr.net/gh/jiyouhai/tju-math-guide/pdfs/文件名
+https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/tju-math-guide/pdfs/文件名
 ```
 
 但是这个格式的问题在于文件大小不能超过20MB，所以我才用了压缩pdf的方式来传输文件。一般我们要传输的文件是纯图形式就可以运用下面的方法。

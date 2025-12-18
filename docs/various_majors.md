@@ -7,7 +7,7 @@
 
 ### 计算机实习/Python实习
 
-会有一些实习，比如说[计算机实习](https://github.com/jiyouhai/TJU_Draw)我放在了GitHub里，然后大数据专业是python实习，要写一个爬虫软件，但是这个爬虫很容易，就ChatGPT一下或者参考本站[贡献者说](https://jiyouhai.github.io/tju-math-guide/forcontributors/#pdf_5)
+会有一些实习，比如说[计算机实习](https://github.com/zhouyi-xiaoxiao/TJU_Draw)我放在了GitHub里，然后大数据专业是python实习，要写一个爬虫软件，但是这个爬虫很容易，就ChatGPT一下或者参考本站[贡献者说](https://zhouyi-xiaoxiao.github.io/tju-math-guide/forcontributors/#pdf_5)
 
 ### 计算实习
 
@@ -22,12 +22,12 @@
 ### 测度论
 - 王凤雨老师讲的非常好，非常专业，如果能做到及时复习与预习会收获很大
 - 测度论是应数的专业选修课，金融数学专业必修，这门课学习的话对数分，实分析和概率论的要求比较高，主要是各种极限，收敛相关，特别是实分析里的收敛理论要求比较熟练
-- [测度论教材](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/概率论基础.pdf)
+- [测度论教材](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/概率论基础.pdf)
 
 ### 多元统计分析
 - 结课方式是论文，可以自学一下R软件，收获会很大，对于以后想在统计方面继续研究的同学很有帮助
-- [应用多元统计分析上](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/应用多元统计分析1.pdf)
-- [应用多元统计分析下](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/应用多元统计分析2.pdf)
+- [应用多元统计分析上](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/应用多元统计分析1.pdf)
+- [应用多元统计分析下](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/应用多元统计分析2.pdf)
 
 ### 专业英语
 - 讲述数学相关的英语专业术语，对于阅读外文文献有很大帮助，课上和结课分别会要求做一个pre
@@ -37,7 +37,7 @@
 
 ### 保险精算
 - 赵慧老师是绝世好老师，讲课细致认真，十分负责，该课程主要讲述和保险相关的内容，对于金融感兴趣的同学可以修读
-- [精算学基础](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/精算学基础_compressed.pdf)
+- [精算学基础](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/精算学基础_compressed.pdf)
 
 ### 金融随机分析
 - 鲍老师讲课十分专业，该课程中英文结合，呈现更好的授课方式，让学生能更好地理解十分抽象的知识
@@ -57,15 +57,15 @@
 
 与数学与应用数学专业一起上课，难度偏简单（讲的难度不太够，不是泛函分析简单）。分析基础扎实一点的话理解许老师讲义是完全没问题的，建议配套胡适耕或者张恭庆老师的书。泛函分析基本上可以说是本科阶段分析学集大成的学科，很多数学方向都与泛函分析关系紧密（我去上交面试计算数学方向被问的问题：你觉得泛函分析的知识能怎么应用到最优化中）。咱们学的东西去应对其他学校泛函分析的面试问题是不太够的，可以多学。老师给分可以。
 
-- [泛函分析讲义](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/泛函分析讲义.pdf)
+- [泛函分析讲义](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/泛函分析讲义.pdf)
 ### 组合数学
 
 同样大家一起上课。季青老师讲的比较详细，但是播放ppt会比较快，建议上课前预习一下。老师上课会和同学互动，有些作业题会当堂让同学上黑板做，大家可以讨论互相借鉴。作业压力不大，上课认真听就可以。考试多复习做过的作业题和书上的例题，通过问题不大，拿高分较难。感兴趣的同学可以多学，组合的应用还是比较广泛的。
 
-- [组合数学讲义](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/组合数学讲义.pdf)
-- [高斯多项式](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/高斯多项式.pdf)
-- [组合数学课后作业答案](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/组合数学课后作业答案.pdf)
-- [两个欧拉等式有限形式的证明](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/两个欧拉等式有限形式的证明.pdf)
+- [组合数学讲义](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/组合数学讲义.pdf)
+- [高斯多项式](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/高斯多项式.pdf)
+- [组合数学课后作业答案](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/组合数学课后作业答案.pdf)
+- [两个欧拉等式有限形式的证明](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/两个欧拉等式有限形式的证明.pdf)
 
 
 

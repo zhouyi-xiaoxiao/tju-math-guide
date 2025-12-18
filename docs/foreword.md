@@ -16,7 +16,7 @@
 
 另外，如果你希望和我一起创作这个网站，你可以加入贡献者行列。我个人有很多不够了解的地方。我的个人微信号12315752。我希望如果网站对你有帮助的话咱们一起来贡献这个网站，你每学期上了课之后和我一起更新它。
 
-在专业课程指导中我确保了所有PDF都是能看清晰的，但是你如果还想要更清晰的文件可以访问这个网站的[github仓库文件](https://github.com/jiyouhai/my-math-notes/tree/main/PDFs)，因为链接文件有大小限制所以很多文件我都进行了适当的压缩。
+在专业课程指导中我确保了所有PDF都是能看清晰的，但是你如果还想要更清晰的文件可以访问这个网站的[github仓库文件](https://github.com/zhouyi-xiaoxiao/my-math-notes/tree/main/PDFs)，因为链接文件有大小限制所以很多文件我都进行了适当的压缩。
 
 最后，我深知，信息差是永远无法改变的。即使是在同一个学校，同一个班级。有一些人就是乐意去多问多了解各种资源，有一些人不会。但这个网站能让你比较轻松地获得很多信息。
 
@@ -132,12 +132,12 @@
 
 2. 进入云盘系统，页面自动弹出用户协议，点击左下方“已阅读并同意用户协议”后，点击右下方“打开云盘”。
 
-3. 更多使用说明，请参考[帮助手册](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/天大云盘操作手册.pdf)（可将下文链接复制到浏览器打开或下载）。
+3. 更多使用说明，请参考[帮助手册](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/天大云盘操作手册.pdf)（可将下文链接复制到浏览器打开或下载）。
 
 ## 与本站类似的网站或手册
 
 [南方科技大学飞跃手册](https://sustech-application.com/#/?id=%e5%8d%97%e6%96%b9%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%a6%e9%a3%9e%e8%b7%83%e6%89%8b%e5%86%8c)中有南科大很多各系学长学姐之后升学和就业道路的真实故事。
 
-[上海交通大学生存手册](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/上海交通大学生存手册.pdf)是很古老的一本手册，里面有一些对于大学“真实”的看法。
+[上海交通大学生存手册](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/上海交通大学生存手册.pdf)是很古老的一本手册，里面有一些对于大学“真实”的看法。
 
-[USTC基础数学修课指南](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/USTC基础数学修课指南.pdf)是几年前中国科学技术大学有关数学系该如何选择教材等的指南。
+[USTC基础数学修课指南](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/USTC基础数学修课指南.pdf)是几年前中国科学技术大学有关数学系该如何选择教材等的指南。
