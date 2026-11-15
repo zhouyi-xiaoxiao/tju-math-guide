@@ -31,7 +31,7 @@
 ### 高等代数A
 
 这个课只能自学偏多。可以参考：
- [线性代数应该这样学中文版](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/线性代数应该这样学_compressed.pdf)  [英文版](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/LADR.pdf)。这个内容前面几章和孙院讲稿很像。
+ [线性代数应该这样学中文版](https://zhouyi-xiaoxiao.github.io/my-math-notes/PDFs/线性代数应该这样学_compressed.pdf)  [英文版](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/LADR.pdf)。这个内容前面几章和孙院讲稿很像。
  席南华[基础代数1](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/基础代数1_compressed.pdf) [基础代数2](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/基础代数2_compressed.pdf)。孙院讲稿几乎就按几乎就按着这两个教材编写的。
 
  你们的教材：[孙笑涛高等代数](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/孙笑涛高等代数.pdf)
@@ -45,7 +45,7 @@
 
 这两个老师的教材都附有学习指导，也有答案，看下b站评论区就行。21级根据复旦大学谢启宏老师以及孙院讲稿所写成的高代笔记。[高等代数A谢启鸿笔记](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/高等代数A谢启鸿笔记_compressed.pdf) & [高等代数B谢启鸿笔记](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/高等代数B谢启鸿笔记_compressed.pdf)
 
-## 数学分析A/高等代数A专题(Latex)
+## 数学分析A/高等代数A专题(Latex) {#math-analysis-a-advanced-algebra-a}
 
 某一些老师比如周泽华的专题课会有考试，一般是开卷考试。但除了周泽华老师更多情况下专题课需要用Latex格式写一篇论文作为期末提交的作业。另外理工科的论文大多数都是用Latex编译，所以建议你一定要学习Latex的使用并且勤加练习。
 
@@ -105,7 +105,7 @@ Latex的教材，也是一个[Latex使用说明](https://cdn.jsdelivr.net/gh/zho
 
 [伍胜健-数学分析-第二册答案](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/伍胜健2答案_compressed.pdf)
 
-[周泽华数学分析B部分答案](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/数学分析B部分答案_compressed.pdf)
+[周泽华数学分析B部分答案](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/数学分析B部分答案.pdf_compressed.pdf)
 
 [2022-2023数学分析B期末试卷（周泽华）](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/2022-2023数学分析B期末试卷.pdf)
 
@@ -130,7 +130,7 @@ Latex的教材，也是一个[Latex使用说明](https://cdn.jsdelivr.net/gh/zho
 
 [2019c++期末考试题](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/1_2019c++期末考试题.pdf)
 
-[非数Cpp合集](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/非数Cpp合集.pdf)，后面这个链接可以来练练选择题。21级22级都有考选择题。
+[非数Cpp合集](https://zhouyi-xiaoxiao.github.io/my-math-notes/PDFs/非数Cpp合集.pdf)，后面这个链接可以来练练选择题。21级22级都有考选择题。
 
 ## 大二上
 ### 概率论
@@ -189,13 +189,13 @@ Latex的教材，也是一个[Latex使用说明](https://cdn.jsdelivr.net/gh/zho
 
 建议上课去求是班听最后考试在于怀强老师那里。
 
-[实变函数论周民强](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/实变函数论周民强.pdf)
+[实变函数论周民强](https://zhouyi-xiaoxiao.github.io/my-math-notes/PDFs/实变函数论周民强.pdf)
 
 [实变函数求是班习题课](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/实变函数求是班习题课.pdf)
 
 [实变函数周民强所有答案](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/实变周民强所有答案.pdf)
 
-[沈瑞鹏实变函数1](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/实变函数讲义1.pdf)
+[沈瑞鹏实变函数1](https://zhouyi-xiaoxiao.github.io/my-math-notes/PDFs/实变函数讲义1.pdf)
 
 [沈瑞鹏实变函数2](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/实变函数讲义2.pdf)
 
@@ -219,7 +219,7 @@ Latex的教材，也是一个[Latex使用说明](https://cdn.jsdelivr.net/gh/zho
 
 [曾红刚复变函数答案1](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/曾红刚复变函数答案1.pdf)
 
-[曾红刚复变函数答案2](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/曾红刚复变函数答案2.pdf)
+[曾红刚复变函数答案2](https://zhouyi-xiaoxiao.github.io/my-math-notes/PDFs/曾红刚复变函数答案2.pdf)
 
 [曾红刚复变函数答案助教版](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/曾红刚复变函数答案助教版_output.pdf)
 
@@ -261,7 +261,7 @@ Latex的教材，也是一个[Latex使用说明](https://cdn.jsdelivr.net/gh/zho
 
 [数据结构上机作业.zip](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/数据结构上机.zip)
 
-[数据结构上机题.zip](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/数据结构题.zip)
+[数据结构上机题.zip](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/数据结构上机题.zip)
 
 ### 数论
 

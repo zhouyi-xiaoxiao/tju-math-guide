@@ -64,7 +64,7 @@
 
 - [组合数学讲义](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/组合数学讲义.pdf)
 - [高斯多项式](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/高斯多项式.pdf)
-- [组合数学课后作业答案](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/组合数学课后作业答案.pdf)
+- [组合数学课后作业答案](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/组合数学课后作业题答案.pdf)
 - [两个欧拉等式有限形式的证明](https://cdn.jsdelivr.net/gh/zhouyi-xiaoxiao/my-math-notes/PDFs/两个欧拉等式有限形式的证明.pdf)
 
 
