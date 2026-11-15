@@ -1,45 +1,56 @@
 site_name: 天津大学数学学院本科生指北
 site_url: https://zhouyixiaoxiao.info/
-site_author: zhouyi-xiaoxiao
-site_description: 一些关于天大，关于数学的信息和资料，你可能需要会需要他们
+site_author: 周易潇潇
+site_description: 天津大学数学学院本科生指北：每门课的教材、讲义、作业答案与往年试卷，求是班与强化班，保研、考研、出国与就业，写给后来的每一届。
 repo_name: tju-math-guide
 repo_url: https://github.com/zhouyi-xiaoxiao/tju-math-guide/
+edit_uri: blob/main/docs/
 theme:
   name: material
+  custom_dir: overrides
+  language: zh
+  logo_alt: 天津大学数学学院本科生指北
+  icon:
+    logo: guide/compass
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.svg
+  font: false
   features:
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
     - navigation.top
+    - navigation.footer
+    - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-    - navigation.footer
-    - search.suggest
-    - search.highlight
     - content.action.view
-    - content.tabs.link
-  language: zh
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: purple
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
-        name: Switch to dark mode
+        name: 切换到深色模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
-      accent: lime
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
-        name: Switch to light mode
+        name: 切换到浅色模式
 plugins:
-  - social
   - search
+  - social:
+      cards_layout_options:
+        font_family: Noto Sans SC
+        background_color: "#1f3d6b"
+        color: "#f6f2e8"
+        logo: docs/assets/favicon.svg
+        description: 教材、讲义、作业答案与往年试卷 · 求是班与强化班 · 保研、考研、出国与就业
 extra:
   analytics:
     provider: google
@@ -59,30 +70,28 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - admonition
-  - pymdownx.arithmatex:
-      generic: true
   - footnotes
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 copyright: |
-  &copy; 2023 <a href="https://github.com/zhouyi-xiaoxiao"  target="_blank" rel="noopener">zhouyi-xiaoxiao</a>
+  &copy; 2023–2026 <a href="https://zhouyixiaoxiao.com/" target="_blank" rel="noopener">周易潇潇 · zhouyixiaoxiao.com</a>
+extra_css:
+  - stylesheets/guide.css
 extra_javascript:
   - javascripts/redirect-old-domain.js
   - javascripts/mathjax.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+not_in_nav: |
+  /未来可能的答案/*.md
 nav:
     - 首页: 'index.md'
     - 前言: 'foreword.md'
     - 贡献者说: 'forcontributors.md'
     - 数学类专业课程: 'professional_courses.md'
     - 各专业专业课程: 'various_majors.md'
-    - 未来可能的答案:
-        # - 未来可能的答案/index.md
-        - 抽象代数: '未来可能的答案/abstractalgebra.md'
-        - 数学分析: '未来可能的答案/mathmaticalanalysis.md'
