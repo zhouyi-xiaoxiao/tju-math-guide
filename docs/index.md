@@ -10,7 +10,7 @@ hide:
 
 <div class="guide-hero" markdown>
 
-<p class="guide-kicker">天津大学 · 数学学院 · 本科</p>
+<p class="guide-kicker">天津大学 · 数学学院 · 本科 · 写于 2023–2024 年</p>
 
 # 天津大学数学学院本科生指北
 
