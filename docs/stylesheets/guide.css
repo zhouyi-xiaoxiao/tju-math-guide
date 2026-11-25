@@ -186,6 +186,7 @@
   letter-spacing: 0.22em;
   color: var(--guide-needle);
 }
+.md-typeset .guide-kicker__date { white-space: nowrap; }
 .md-typeset .guide-lede {
   max-width: 34em;
   font-size: 1.06rem;
@@ -311,7 +312,7 @@
 @media screen and (max-width: 44.9375em) {
   .guide-hero { padding: 1.2rem 0 1.4rem; }
   .md-typeset .guide-hero h1 { font-size: 1.9rem; }
-  .md-typeset .guide-lede { font-size: 0.95rem; }
+  .md-typeset .guide-lede { font-size: 0.95rem; max-width: none; }
   .guide-hero::after { display: none; }
   .md-typeset dl.guide-facts__list { grid-template-columns: minmax(0, 1fr); gap: 0.15rem; }
   .md-typeset dl.guide-facts__list dd { margin-bottom: 0.8rem; }

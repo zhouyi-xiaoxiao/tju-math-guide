@@ -1,7 +1,7 @@
 site_name: 天津大学数学学院本科生指北
 site_url: https://zhouyixiaoxiao.info/
 site_author: 周易潇潇
-site_description: 天津大学数学学院本科生指北：每门课的教材、讲义、作业答案与往年试卷，求是班与强化班，保研、考研、出国与就业，写给后来的每一届。
+site_description: 天津大学数学学院本科生指北：每门课的内容与教材，求是班与强化班，保研、考研、出国与就业，写给后来的每一届。
 repo_name: tju-math-guide
 repo_url: https://github.com/zhouyi-xiaoxiao/tju-math-guide/
 edit_uri: blob/main/docs/
@@ -50,7 +50,7 @@ plugins:
         background_color: "#1f3d6b"
         color: "#f6f2e8"
         logo: docs/assets/favicon.svg
-        description: 教材、讲义、作业答案与往年试卷 · 求是班与强化班 · 保研、考研、出国与就业
+        description: 教材与课程 · 求是班与强化班 · 保研、考研、出国与就业
 extra:
   analytics:
     provider: google
@@ -58,10 +58,8 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/zhouyi-xiaoxiao
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/profile.php?id=100082717939442&mibextid=9R9pXO
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/zhouyixiaoxiao
+      link: https://www.linkedin.com/in/zhouyixiaoxiao/
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
@@ -92,6 +90,6 @@ not_in_nav: |
 nav:
     - 首页: 'index.md'
     - 前言: 'foreword.md'
-    - 贡献者说: 'forcontributors.md'
     - 数学类专业课程: 'professional_courses.md'
-    - 各专业专业课程: 'various_majors.md'
+    - 各专业方向课程: 'various_majors.md'
+    - 贡献者说: 'forcontributors.md'
